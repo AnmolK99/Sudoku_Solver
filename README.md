@@ -9,4 +9,4 @@ Use,
 Tensorflow 2.3.1
 Keras 2.4.0
 numpy 1.18.5
-this project is running smoothly on above versions.
+as the project is developed using above versions, but can run on any stable versions. Hopefully.
